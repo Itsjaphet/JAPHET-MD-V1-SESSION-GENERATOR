@@ -1,5 +1,5 @@
-# Wasi-Session-Generator
-- Kindly star my repo
+# 𝐉𝐀𝐏𝐇𝐄𝐓-𝐌𝐃 𝐕1 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑
+- 𝐊𝐢𝐧𝐝𝐥𝐲 𝐬𝐭𝐚𝐫 𝐦𝐲 𝐫𝐞𝐩𝐨 𝐩𝐥𝐞𝐚𝐬𝐞😊
 - Fork and edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
 
@@ -16,11 +16,11 @@
 
 
 
-[`ℹ️Contact Owner`](https://wa.me/923192173398)
+[`ℹ️Contact Owner`](https://wa.me/255613914546)
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Itxxwasi/SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/itsjaphet/JAPHET-MD-V1/SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
     <br>
